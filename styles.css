@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(240, 23, 70);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 3em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#interaction-box {
+    padding: 2em;
+    border-radius: 0.5em;
+    background-color: rgba(233, 197, 197, 0.7);
+}
+
+#interaction-box h1 {
+    text-align: center;
+}
+
